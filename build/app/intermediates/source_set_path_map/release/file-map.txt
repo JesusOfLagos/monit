@@ -1,0 +1,12 @@
+com.example.librarify.app-jetified-annotation-experimental-1.1.0-0 /Users/khabibthekillys./.gradle/caches/transforms-3/09db32a73384ac2dccccf916d7dc0262/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.librarify.app-core-1.6.0-1 /Users/khabibthekillys./.gradle/caches/transforms-3/168e459aae59caaab0d2c703cf9d67ab/transformed/core-1.6.0/res
+com.example.librarify.app-jetified-window-1.0.0-beta04-2 /Users/khabibthekillys./.gradle/caches/transforms-3/29fe38a5fd6c3bf46cd8e59c2b63489e/transformed/jetified-window-1.0.0-beta04/res
+com.example.librarify.app-jetified-window-java-1.0.0-beta04-3 /Users/khabibthekillys./.gradle/caches/transforms-3/978180320ed1d29d66a82edc9d24751e/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.librarify.app-main-4 /Users/khabibthekillys./Documents/monit/android/app/src/main/res
+com.example.librarify.app-release-5 /Users/khabibthekillys./Documents/monit/android/app/src/release/res
+com.example.librarify.app-pngs-6 /Users/khabibthekillys./Documents/monit/build/app/generated/res/pngs/release
+com.example.librarify.app-resValues-7 /Users/khabibthekillys./Documents/monit/build/app/generated/res/resValues/release
+com.example.librarify.app-rs-8 /Users/khabibthekillys./Documents/monit/build/app/generated/res/rs/release
+com.example.librarify.app-mergeReleaseResources-9 /Users/khabibthekillys./Documents/monit/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.librarify.app-mergeReleaseResources-10 /Users/khabibthekillys./Documents/monit/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.librarify.app-merged_res-11 /Users/khabibthekillys./Documents/monit/build/app/intermediates/merged_res/release
